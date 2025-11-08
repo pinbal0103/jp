@@ -1,0 +1,58 @@
+#EXTM3U url-tvg="https://zhenix-px.netgenx.site/epg/tv_epg.xml?region=jp_1"
+# ==== 地上波 Tokyo ====
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK_G_Tokyo_Logo.svg",NHK G・東京
+https://kotori-nl01.netgenx.site/iptv/zhenxen/master_playlist/hdgd01
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD2020-.svg",NHK E・東京
+https://kotori-nl01.netgenx.site/iptv/zhenxen/master_playlist/hdgd02
+#EXTINF:-1 group-title="Tokyo" tvg-id="ntv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Nippon_TV_logo_2014.svg",日本テレビ
+https://kotori-nl01.netgenx.site/iptv/zhenxen/master_playlist/hdgd03
+#EXTINF:-1 group-title="Tokyo" tvg-id="tbs_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TBS_logo_2020.svg",TBSテレビ
+https://kotori-nl01.netgenx.site/iptv/zhenxen/master_playlist/hdgd04
+#EXTINF:-1 group-title="Tokyo" tvg-id="cx_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Fuji_Television_logo.svg",フジテレビジョン
+https://kotori-nl01.netgenx.site/iptv/zhenxen/master_playlist/hdgd05
+#EXTINF:-1 group-title="Tokyo" tvg-id="ex_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/TV_Asahi_Logo.svg",テレビ朝日
+https://kotori-nl01.netgenx.site/iptv/zhenxen/master_playlist/hdgd06
+#EXTINF:-1 group-title="Tokyo" tvg-id="tx_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Tokyo_logo_2011.svg",テレビ東京
+https://kotori-nl01.netgenx.site/iptv/zhenxen/master_playlist/hdgd07
+#EXTINF:-1 group-title="Tokyo" tvg-id="mx_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Tokyo_metropolitan_television_logo_%28TOKYO_MX%29.svg",TOKYO MX1
+https://kotori-nl01.netgenx.site/iptv/zhenxen/master_playlist/hdgd08
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK_G_Tokyo_Logo.svg",NHK G・東京
+https://kotori-sg01.netgenx.site/iptv/zhenxen/master_playlist/hdgd01
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD2020-.svg",NHK E・東京
+https://kotori-sg01.netgenx.site/iptv/zhenxen/master_playlist/hdgd02
+#EXTINF:-1 group-title="Tokyo" tvg-id="ntv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Nippon_TV_logo_2014.svg",日本テレビ
+https://kotori-sg01.netgenx.site/iptv/zhenxen/master_playlist/hdgd03
+#EXTINF:-1 group-title="Tokyo" tvg-id="tbs_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TBS_logo_2020.svg",TBSテレビ
+https://kotori-sg01.netgenx.site/iptv/zhenxen/master_playlist/hdgd04
+#EXTINF:-1 group-title="Tokyo" tvg-id="cx_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Fuji_Television_logo.svg",フジテレビジョン
+https://kotori-sg01.netgenx.site/iptv/zhenxen/master_playlist/hdgd05
+#EXTINF:-1 group-title="Tokyo" tvg-id="ex_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/TV_Asahi_Logo.svg",テレビ朝日
+https://kotori-sg01.netgenx.site/iptv/zhenxen/master_playlist/hdgd06
+#EXTINF:-1 group-title="Tokyo" tvg-id="tx_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Tokyo_logo_2011.svg",テレビ東京
+https://kotori-sg01.netgenx.site/iptv/zhenxen/master_playlist/hdgd07
+#EXTINF:-1 group-title="Tokyo" tvg-id="mx_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Tokyo_metropolitan_television_logo_%28TOKYO_MX%29.svg",TOKYO MX1
+https://kotori-sg01.netgenx.site/iptv/zhenxen/master_playlist/hdgd08
+
+# ==== BS放送 ====
+#EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/NHK_BS_logo_2023.svg",NHK BS
+https://kotori-sg01.netgenx.site/iptv/zhenxen/master_playlist/bs02
+#EXTINF:-1 group-title="BS" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/BS_Nippon_TV_logo.svg",BS日テレ
+https://kotori-sg01.netgenx.site/iptv/zhenxen/master_playlist/bs03
+#EXTINF:-1 group-title="BS" tvg-id="bs_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/BS_Asahi_logo.svg",BS朝日
+https://kotori-sg01.netgenx.site/iptv/zhenxen/master_playlist/bs04
+#EXTINF:-1 group-title="BS" tvg-id="bs_tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Bs-tbs_logo_2020.svg",BSTBS
+https://kotori-sg01.netgenx.site/iptv/zhenxen/master_playlist/bs05
+#EXTINF:-1 group-title="BS" tvg-id="bs_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/BS_Television_Tokyo_logo.svg",BSテレ東
+https://kotori-sg01.netgenx.site/iptv/zhenxen/master_playlist/bs06
+#EXTINF:-1 group-title="BS" tvg-id="bs_fuji" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/BS_Fuji_logo.svg",BSフジ
+https://kotori-sg01.netgenx.site/iptv/zhenxen/master_playlist/bs11
+#EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/BS11_logo_2011.svg",BS11
+https://kotori-sg01.netgenx.site/iptv/luongz/master_playlist/nl+BS11
+
+# ==== CS/有料チャンネル ====
+#EXTINF:-1 group-title="CS/BS" tvg-id="atx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/AT-X_logo.svg",AT‑X
+https://kotori-nl01.netgenx.site/iptv/luongz/master_playlist/nl+AT-X
+#EXTINF:-1 group-title="CS/BS" tvg-id="tbs_ch2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/TBS_Channel2_logo.svg",TBSチャンネル2
+https://kotori-nl01.netgenx.site/iptv/luongz/master_playlist/nl+tbsch2
+#EXTINF:-1 group-title="CS/BS" tvg-id="tbs_news_hard" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/TBS_News_2020_logo.png",TBSニュースハード
+https://kotori-sg01.netgenx.site/iptv/zhenxen/master_playlist/cs11
